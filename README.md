@@ -1,4 +1,5 @@
-Privacy Policy
+Privacy Policy "OvertimeCalendar" application
+
 Developer Evgeny Zamashchikov (alias Kolobok programmer) (in russain - Евгений Замащиков (псевдоним Колобок программист)) built the app "Overtime Calendar" (in russian  "Мой табель") as free, ad-supported app. This SERVICE is provided by Developer at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
